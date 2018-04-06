@@ -5,11 +5,11 @@ Github: https://github.com/ronger-x
 QQ：1318858110
 ## 个人简介
 - 荣福能/男/1996
-- 2年Java开发经验
-- 熟悉Spring boot,Spring,Hibernate,Mybatis等主流开源框架
-- 熟练使用SQLServer和Mysql数据库
-- 熟悉JSP/Servlet、JavaScript、Ajax、jquery等WEB技术
-- 熟练使用SVN、Git、Maven等工具
+- 2年 Java 开发经验
+- 熟悉 Spring boot,Spring,Hibernate,Mybatis 等主流开源框架
+- 熟练使用 SQLServer 和 Mysql 数据库
+- 熟悉 JSP/Servlet、JavaScript、Ajax、jquery 等 WEB 技术
+- 熟练使用 SVN、Git、Maven 等工具
 - 热爱开源技术，能够主动学习新的技术
 
 ## 工作经历
@@ -17,7 +17,7 @@ QQ：1318858110
 - 部门经理：负责部门成员业务培训、制定工作计划及智慧疾控一体化平台研发及维护工作，参与架构迁移工作
 ## 项目经历
 ### 中国疾病预防控制中心应急作业系统
-邮件系统：集成Outlook邮箱，实现草稿、回收站、自定义分类、邮件发送、抄送功能
+邮件系统：集成 Outlook 邮箱，实现草稿、回收站、自定义分类、邮件发送、抄送功能
 ### 天津北辰疾病预防控制中心实验室管理系统
 - 负责系统需求调研及工作计划安排
 - 负责实验室流程管理及原始记录模块开发
