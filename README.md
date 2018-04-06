@@ -1,7 +1,7 @@
 ## 联系方式
 电话： +8618397919370  
 邮箱： ronger-x@outlook.com  
-Github: https://github.com/ronger-x  
+Github： https://github.com/ronger-x  
 QQ：1318858110
 ## 个人简介
 - 荣福能/男/1996
