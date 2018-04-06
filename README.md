@@ -1,7 +1,10 @@
 ## 联系方式
-电话： +8618397919370 邮箱： ronger-x@outlook.com  
-Github: https://github.com/ronger-x
+电话： +8618397919370  
+邮箱： ronger-x@outlook.com  
+Github: https://github.com/ronger-x  
+QQ：1318858110
 ## 个人简介
+- 荣福能/男/1996
 - 2年Java开发经验
 - 熟悉Spring boot,Spring,Hibernate,Mybatis等主流开源框架
 - 熟练使用SQLServer和Mysql数据库
